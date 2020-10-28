@@ -4,8 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <video src='videos/videos-3.mp4' autoPlay loop/>
       <header className="App-header">
-        <video src='videos/videos-3.mp4' autoPlay loop/>
+        
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
