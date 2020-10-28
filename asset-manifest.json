@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reac-website-test/static/css/main.100301dd.chunk.css",
-    "main.js": "/reac-website-test/static/js/main.09d687de.chunk.js",
-    "main.js.map": "/reac-website-test/static/js/main.09d687de.chunk.js.map",
+    "main.js": "/reac-website-test/static/js/main.56f69284.chunk.js",
+    "main.js.map": "/reac-website-test/static/js/main.56f69284.chunk.js.map",
     "runtime-main.js": "/reac-website-test/static/js/runtime-main.d26c4f3b.js",
     "runtime-main.js.map": "/reac-website-test/static/js/runtime-main.d26c4f3b.js.map",
     "static/js/2.49f2c3ab.chunk.js": "/reac-website-test/static/js/2.49f2c3ab.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d26c4f3b.js",
     "static/js/2.49f2c3ab.chunk.js",
     "static/css/main.100301dd.chunk.css",
-    "static/js/main.09d687de.chunk.js"
+    "static/js/main.56f69284.chunk.js"
   ]
 }
