@@ -5,7 +5,7 @@ import Video from './videos/videos-3.mp4'
 function App() {
   return (
     <div className="App">
-      <VideoBg playsinline autoPlay loop muted src={Video} type="video/mp4"/>
+      <Video playsinline autoPlay loop muted src={Video} type="video/mp4"/>
       <header className="App-header">
         
         <img src={logo} className="App-logo" alt="logo" />
