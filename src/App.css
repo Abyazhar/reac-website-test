@@ -11,7 +11,7 @@ video {
   object-fit: cover;
   width: 100%;
   height: 100%;
-  position: fixed;
+  position: sticky;
   z-index: -1;
 }
 
@@ -22,7 +22,7 @@ video {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: transparent;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
