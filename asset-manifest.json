@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reac-website-test/static/css/main.69578303.chunk.css",
-    "main.js": "/reac-website-test/static/js/main.56f69284.chunk.js",
-    "main.js.map": "/reac-website-test/static/js/main.56f69284.chunk.js.map",
+    "main.js": "/reac-website-test/static/js/main.beb3f0e1.chunk.js",
+    "main.js.map": "/reac-website-test/static/js/main.beb3f0e1.chunk.js.map",
     "runtime-main.js": "/reac-website-test/static/js/runtime-main.d26c4f3b.js",
     "runtime-main.js.map": "/reac-website-test/static/js/runtime-main.d26c4f3b.js.map",
     "static/js/2.49f2c3ab.chunk.js": "/reac-website-test/static/js/2.49f2c3ab.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/reac-website-test/index.html",
     "static/css/main.69578303.chunk.css.map": "/reac-website-test/static/css/main.69578303.chunk.css.map",
     "static/js/2.49f2c3ab.chunk.js.LICENSE.txt": "/reac-website-test/static/js/2.49f2c3ab.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/reac-website-test/static/media/logo.103b5fa1.svg"
+    "static/media/logo.103b5fa1.svg": "/reac-website-test/static/media/logo.103b5fa1.svg",
+    "static/media/videos-3.5f8ad640.mp4": "/reac-website-test/static/media/videos-3.5f8ad640.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.d26c4f3b.js",
     "static/js/2.49f2c3ab.chunk.js",
     "static/css/main.69578303.chunk.css",
-    "static/js/main.56f69284.chunk.js"
+    "static/js/main.beb3f0e1.chunk.js"
   ]
 }
