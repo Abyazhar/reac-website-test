@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Video from '../public/videos/videos-3.mp4';
+import Video from './videos/videos-3.mp4'
 
 function App() {
   return (
